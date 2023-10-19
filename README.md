@@ -28,5 +28,5 @@
 </pre>
 
 ### 게임화면
-
-
+![image](https://github.com/indra494/study-unity-eatddong/blob/main/%EA%B2%8C%EC%9E%84%ED%99%94%EB%A9%B401.png?raw=true)
+![image](https://github.com/indra494/study-unity-eatddong/blob/main/%EA%B2%8C%EC%9E%84%ED%99%94%EB%A9%B402.png?raw=true?raw=true)
